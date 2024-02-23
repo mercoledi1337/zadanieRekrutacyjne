@@ -1,0 +1,6 @@
+@rwabackend_HostAddress = http://localhost:5230
+
+GET {{rwabackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
