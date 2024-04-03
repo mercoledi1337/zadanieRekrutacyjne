@@ -1,0 +1,6 @@
+@Zadanie_Rekturacyjne_HostAddress = http://localhost:5148
+
+GET {{Zadanie_Rekturacyjne_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
